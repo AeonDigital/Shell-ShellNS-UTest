@@ -1,0 +1,12 @@
+Writes the data of a unit test so that it is part of the test battery.
+
+@param string $1
+Name of the package to which the unit test belongs.
+
+@param string $2
+Name of the tested function.
+
+@param string $3
+Name of the unit test function associated with the tested function.
+
+@return void

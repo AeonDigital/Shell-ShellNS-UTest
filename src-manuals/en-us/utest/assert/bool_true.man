@@ -1,0 +1,4 @@
+Checks if the value of **utestTestResult** is equal to **1** (true).  
+These variables must be defined in a scope greater than this function.
+
+@return string

@@ -1,0 +1,3 @@
+Records the count of a unit test and displays its result.
+
+@return string

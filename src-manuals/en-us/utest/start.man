@@ -1,0 +1,17 @@
+Runs the entire unit tests battery.
+
+@param ?bool $1
+::
+  - default : "0"
+  - list    : SHELLNS_PROMPT_OPTION_BOOL
+::
+Stop tests on the first fail.
+
+@param ?string[,] $2
+If informed, it will only run the tests referring to the informed packages.
+
+@param ?string[,] $3
+If informed, it will only run the tests referring to the informed functions.
+
+@return string
+Prints the result of all the tests performed.

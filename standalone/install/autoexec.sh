@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+#
+shellNS_standalone_install_dependencies "1"
+unset shellNS_standalone_install_set_dependency
+unset shellNS_standalone_install_dependencies
+unset shellNS_standalone_install_dialog
+unset SHELLNS_STANDALONE_DEPENDENCIES
